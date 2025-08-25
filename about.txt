@@ -1,0 +1,7 @@
+student name: deepika
+suc:2347390366
+hall ticket no:230387170173
+course:bsc computer science
+email:deepikamulukuri@gmail.com
+phn no:9849647680 
+learned:how to create GitHub account
